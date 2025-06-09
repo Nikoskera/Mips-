@@ -8,6 +8,6 @@ Each folder contains:
 ## ⚙️ Tools Used
 
 - ✅ **Language:** VHDL
-- ✅ **Simulator:** [ModelSim](https://www.intel.com/content/www/us/en/software/programmable/modelsim/overview.html) / [GHDL](https://ghdl.readthedocs.io/) (choose one)
+- ✅ **Simulator:** [ModelSim](https://www.intel.com/content/www/us/en/software/programmable/modelsim/overview.html) 
 
 
